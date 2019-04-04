@@ -1,0 +1,11 @@
+commit dd32c6aa695d6ced968cd8acef283ab8f303539e
+Author: unknown <andonov.done@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:44:16 2019 +0200
+
+    Initial commit
+
+commit 23bff61891fd960b10cb04fd9109a5a8e6d9e1dc
+Author: unknown <andonov.done@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:38:15 2019 +0200
+
+    Initial commit
