@@ -4,12 +4,11 @@ using namespace std;
 
 void printMyName () {
 	//TODO
-	printf("Done Andonov");
-}
+	cout << "Done Andonov" << endl;
 
 void printMyIndex () {
 	//TODO
-	printf("141182");
+	cout << "141182" << endl;
 }
 
 int main () {
